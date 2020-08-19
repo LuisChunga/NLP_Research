@@ -1,2 +1,2 @@
-Run the preprocess file inside the input folder
+Run the preprocess file inside the input file 
 Run any model. 
